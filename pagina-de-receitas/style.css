@@ -60,3 +60,14 @@ img {
     width: 100%;
 
 }
+footer{
+    color: #291b1a;
+    text-align: center;
+    padding-bottom: 12px;
+}
+
+footer img{
+    width: 25%;
+    margin-top: 8px;
+    vertical-align: middle;
+}
